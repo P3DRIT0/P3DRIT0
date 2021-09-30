@@ -13,7 +13,7 @@
 
 <br />
 
-Hi, i'm [Pedro Fontela](),Currently superior technician in web application development and student to learn to develop multiplatform applications
+Hi, i'm [Pedro Fontela](), Currently superior technician in web application development and student to learn to develop multiplatform applications
 
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
@@ -42,7 +42,7 @@ HTML         21 mins         █▓░░░░░░░░░░░░░░░
 <br />
 <br />
 📈 my github stats
-
+<br>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=P3DRIT0&show_icons=true&theme=gotham" alt="P3DRIT0" />
 
 
