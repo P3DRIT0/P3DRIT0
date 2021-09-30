@@ -39,7 +39,8 @@ JavaScript   1 hr 2 mins     █████▒░░░░░░░░░░░
 HTML         21 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.11 % 
 ```
 <!--END_SECTION:waka-->
-
+<br />
+<br />
 📈 my github stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=P3DRIT0&show_icons=true&theme=gotham" alt="P3DRIT0" />
