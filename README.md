@@ -1,24 +1,24 @@
-### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://discord.gg/XTW52Kt">
-  <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+  <img align="left" alt="Abhishek's Discord" width="22px" src="" />
 </a>
 <a href="https://twitter.com/abhisheknaiidu">
-  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="" />
 </a>
 <a href="https://www.linkedin.com/in/abhisheknaiidu/">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=P3DRIT0.P3DRIT0)
 
 <br />
 
-hi, i'm [Pedro Fontela](),Currently superior technician in web application development and student to learn to develop multiplatform applications
+Hi, i'm [Pedro Fontela](),Currently superior technician in web application development and student to learn to develop multiplatform applications
 
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
-- 💬 ask me about anything, i am happy to help;
+- 💬 Ask me about anything, i am happy to help;
 
 **languages and tools:**  
 
@@ -34,9 +34,9 @@ hi, i'm [Pedro Fontela](),Currently superior technician in web application devel
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
 ```text
-JSX          3 hrs 32 mins   ██████████████████░░░░░░░   71.56 % 
+PHP          3 hrs 32 mins   ██████████████████░░░░░░░   71.56 % 
 JavaScript   1 hr 2 mins     █████▒░░░░░░░░░░░░░░░░░░░   21.18 % 
-TypeScript   21 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.11 % 
+HTML         21 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.11 % 
 ```
 <!--END_SECTION:waka-->
 
